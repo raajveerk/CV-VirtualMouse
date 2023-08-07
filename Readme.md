@@ -26,16 +26,16 @@ https://github.com/raajveerk/FlappyBird_PyGame
 "Ctrl+Alt+S"
 
 --> Now go to the Python Interpreter Settings and choose the interpreter that is set for the Virtual Environment.
-![alt text][]
+![alt text][https://github.com/raajveerk/CV-VirtualMouse/blob/main/Images/Interpreter.png]
 
 --> Next, click the "+" button on the library window to install the following libraries:
 
 1) opencv-python
-![alt  text][]
+![alt  text][https://github.com/raajveerk/CV-VirtualMouse/blob/main/Images/opencv.png]
 2) mediapipe
-![alt  text][]
+![alt  text][https://github.com/raajveerk/CV-VirtualMouse/blob/main/Images/mediapipe.png]
 3) autopy
-![alt  text][]
+![alt  text][https://github.com/raajveerk/CV-VirtualMouse/blob/main/Images/autopy.png]
 
 --> After successfully installing these libraries, locate the AIVirtualMouse file and run it. It should open up your laptop's camera and track your hands successfully.
 
