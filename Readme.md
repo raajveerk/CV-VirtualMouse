@@ -11,6 +11,9 @@ The idea was to play the game with hand gestures instead of mice/trackpad hardwa
 You can find the repository for the game here:
 https://github.com/raajveerk/FlappyBird_PyGame
 
+## A Demo of the Project:
+https://drive.google.com/file/d/131v_yDGdhpsGLqQXXb5p6bu47NgMlFbQ/view?usp=sharing
+
 
 ## Setup:
 
